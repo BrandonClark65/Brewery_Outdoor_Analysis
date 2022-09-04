@@ -90,6 +90,15 @@ https://www.unitedstateszipcodes.org/zip-code-database/
 
 [Presentation](https://docs.google.com/presentation/d/1N3_KahNSpnEqOZBYMtTPWf6kyhb2pmcyFkglY7vouec/edit?usp=sharing)
 
+## Tools
+
+- Python (including `pandas`, `numpy`, `sklearn`, [`yelpapi`](https://github.com/lanl/yelpapi), `matplotlib`, `sqlalchemy`)
+- Tableau
+- Jupyter Notebook / Lab
+- PostgreSQL (including pgAdmin)
+- Google Slides
+- LucidChart
+
 ## Collaborators
 
 - Brandon Clark
